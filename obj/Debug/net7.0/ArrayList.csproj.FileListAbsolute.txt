@@ -1,0 +1,15 @@
+/home/scrviy/dev/dotnet/ArrayList/bin/Debug/net7.0/ArrayList
+/home/scrviy/dev/dotnet/ArrayList/bin/Debug/net7.0/ArrayList.deps.json
+/home/scrviy/dev/dotnet/ArrayList/bin/Debug/net7.0/ArrayList.runtimeconfig.json
+/home/scrviy/dev/dotnet/ArrayList/bin/Debug/net7.0/ArrayList.dll
+/home/scrviy/dev/dotnet/ArrayList/bin/Debug/net7.0/ArrayList.pdb
+/home/scrviy/dev/dotnet/ArrayList/obj/Debug/net7.0/ArrayList.csproj.AssemblyReference.cache
+/home/scrviy/dev/dotnet/ArrayList/obj/Debug/net7.0/ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/home/scrviy/dev/dotnet/ArrayList/obj/Debug/net7.0/ArrayList.AssemblyInfoInputs.cache
+/home/scrviy/dev/dotnet/ArrayList/obj/Debug/net7.0/ArrayList.AssemblyInfo.cs
+/home/scrviy/dev/dotnet/ArrayList/obj/Debug/net7.0/ArrayList.csproj.CoreCompileInputs.cache
+/home/scrviy/dev/dotnet/ArrayList/obj/Debug/net7.0/ArrayList.dll
+/home/scrviy/dev/dotnet/ArrayList/obj/Debug/net7.0/refint/ArrayList.dll
+/home/scrviy/dev/dotnet/ArrayList/obj/Debug/net7.0/ArrayList.pdb
+/home/scrviy/dev/dotnet/ArrayList/obj/Debug/net7.0/ArrayList.genruntimeconfig.cache
+/home/scrviy/dev/dotnet/ArrayList/obj/Debug/net7.0/ref/ArrayList.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M/IV/HO09NveKUu0f75Ux0pTpr5cOAFA9F39oogR8zOiUKyftg8xKnhj2EJHfMpj80W+fIoaXk07EAfiq2fpZQ==",
+  "success": true,
+  "projectFilePath": "/home/scrviy/dev/dotnet/ArrayList/ArrayList.csproj",
+  "expectedPackageFiles": [
+    "/home/scrviy/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
